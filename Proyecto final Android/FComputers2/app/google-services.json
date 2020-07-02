@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "279540381200",
+    "firebase_url": "https://fcomputers-23548.firebaseio.com",
+    "project_id": "fcomputers-23548",
+    "storage_bucket": "fcomputers-23548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279540381200:android:7f8a8d4230c21a4517fc95",
+        "android_client_info": {
+          "package_name": "com.example.fcomputers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279540381200-893s1f8uks5rfhj87fmrplnjkg48ttqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcomputers",
+            "certificate_hash": "c7d5af4f55a8583fcd0bad1cfb8a1c539cc0a433"
+          }
+        },
+        {
+          "client_id": "279540381200-9jql2tnc8or74c6bgi84foj0vmuj82vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ysoqCM4DBx5vWfID_Bi0F5gf5OmtYgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279540381200-9jql2tnc8or74c6bgi84foj0vmuj82vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
